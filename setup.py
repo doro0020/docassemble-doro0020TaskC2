@@ -45,7 +45,7 @@ def find_package_data(where='.', package='', exclude=standard_exclude, exclude_d
 setup(name='docassemble.doro0020TaskC2',
       version='0.0.1',
       description=(''),
-      long_description='# LLAW3301: Law in a Digital Age\r\n\r\n### Teaching materials\r\n\r\nThis Docassemble package contains the source code and other resources used\r\nto teach students Docassemble, YAML and Python.\r\n\r\nLaw in a Digital Age is a topic taught by the \r\n[College of Business, Government and Law](https://www.flinders.edu.au/college-business-government-law)\r\nat [Flinders University](https://flinders.edu.au).  From 2020 it will form part of\r\nthe core Bachelor of Laws degrees taught at Flinders.\r\n\r\nFor any enquirires please contact [Mark Ferraretto](mailto:mark.ferraretto@flinders.edu.au) or on +61 8 7421 9816.\r\n',
+      long_description='LLAW3301: Law in a Digital Age\r\n\r\nCOMP3751: Interactive Computer Systems\r\n\r\nContains code for Docassemble exercise C2\r\n',
       long_description_content_type='text/markdown',
       author='Michael Doroch',
       author_email='doro0020@flinders.edu.au',
